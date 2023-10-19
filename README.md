@@ -15,7 +15,7 @@ The Blue Team is entrusted with enhancing SimCorp's defensive systems. The team 
 
 ## Red Team Objectives
 
-We've been tasked with enumerating the target network from a "black boc" position (minimal knowledge of the target environment) starting with a foothold on a single endpoint.
+We've been tasked with enumerating the target network from a "black box" position (minimal knowledge of the target environment) starting with a foothold on a single endpoint.
 
 One of our goals is discovering as many vulnerabilities as we can and documenting them in accordance with community resources such as CWE and CVSS.
 
@@ -56,7 +56,7 @@ For example, if we wanted to perform attacks from Kali Linux, we would activate 
 * [Slide Deck](https://drive.google.com/file/d/1WlDwYCBPEs-S3j6wFIFuVQ2O1mSdE_uu/view?usp=sharing)
 * [TeamAgreements](https://github.com/VascoLucas01/Cyber-Final-Project/tree/main/TeamAgreements)
 * [Timeline](https://github.com/VascoLucas01/SimCorp-Project/blob/main/Timeline.md)
-* [Web Server 10.0.0.175 - Detailed Assessment Findings](https://docs.google.com/document/d/1neGJOnHg3FmyEQVkgbNVRY3yPx7IxyA700IObZKzwjQ/edit?usp=sharing)
+* [Web Server 10.0.0.175 - Detailed Assessment Findings](https://docs.google.com/document/d/1y7j72WsknBfZpw4GNiCuAfohTOVAeHLpuw4w_iN-8n0/edit?usp=sharing)
 * [Kali-Ma-PenTesting-Report](https://drive.google.com/file/d/1BOD2nTQUxHmKeSktVoJ5CLDfRYCDYCSc/view?usp=sharing)
 * [Nmap Scan (10.0.0.0/16)](https://pastebin.com/raw/tQGFfqgH)
 * [Nessus Scan](https://drive.google.com/file/d/1aAvsoNK3MGF1WwJk6b6YYzc2guRq0ctp/view?usp=sharing)
